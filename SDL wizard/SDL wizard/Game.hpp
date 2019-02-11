@@ -13,7 +13,22 @@
 #include "SDL2/SDL.h"
 
 class Game{
-  
+public:
+    Game();
+    ~Game();
     
+    void init(const char* title, int width, int heigth, bool fullscreen);
+    void handleEvents();
+    void update();
+    void render();
+    void clean();
+    
+    bool running();
+    
+private:
+    bool isRunning = false;
+    SDL_Window *window;
+    SDL_Renderer *renderer;
+    SDL_Event event;
 };
 #endif /* Game_hpp */

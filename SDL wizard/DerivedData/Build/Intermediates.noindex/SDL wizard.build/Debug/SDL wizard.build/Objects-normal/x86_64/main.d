@@ -1,5 +1,6 @@
 dependencies: \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/main.cpp \
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/Game.hpp \
   /usr/local/include/SDL2/SDL.h /usr/local/include/SDL2/SDL_main.h \
   /usr/local/include/SDL2/SDL_stdinc.h \
   /usr/local/include/SDL2/SDL_config.h \
