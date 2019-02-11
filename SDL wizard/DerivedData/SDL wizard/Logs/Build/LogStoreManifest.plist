@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>20E44899-DB78-46AB-A30F-B4898CAB42E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20E44899-DB78-46AB-A30F-B4898CAB42E3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571581392.70251405</real>
+			<key>timeStoppedRecording</key>
+			<real>571581393.61864698</real>
+			<key>title</key>
+			<string>Build SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>20E44899-DB78-46AB-A30F-B4898CAB42E3</string>
+		</dict>
+		<key>87899203-9760-4F11-B043-F7D2057257B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87899203-9760-4F11-B043-F7D2057257B5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571582187.41066206</real>
+			<key>timeStoppedRecording</key>
+			<real>571582189.61210096</real>
+			<key>title</key>
+			<string>Build SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>87899203-9760-4F11-B043-F7D2057257B5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>19B17342-0D76-416B-92E5-5D473338B8DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>19B17342-0D76-416B-92E5-5D473338B8DC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>SDL_wizard-fijsakyipsnijxddjgeazutihfew</string>
+			<key>timeStartedRecording</key>
+			<real>571581392.74259496</real>
+			<key>timeStoppedRecording</key>
+			<real>571581393.55345905</real>
+			<key>title</key>
+			<string>Build target SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>19B17342-0D76-416B-92E5-5D473338B8DC</string>
+		</dict>
+		<key>F60CB619-39B2-4B9B-808B-585CE5CDB401</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>F60CB619-39B2-4B9B-808B-585CE5CDB401.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>SDL_wizard-bfdrldfsqiggwlfuuskjpistilzi</string>
+			<key>timeStartedRecording</key>
+			<real>571582187.480039</real>
+			<key>timeStoppedRecording</key>
+			<real>571582189.54751694</real>
+			<key>title</key>
+			<string>Build target SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>F60CB619-39B2-4B9B-808B-585CE5CDB401</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

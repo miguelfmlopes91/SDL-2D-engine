@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>38FC0BAE-7E26-41A2-AB36-C5906CF46DFB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>38FC0BAE-7E26-41A2-AB36-C5906CF46DFB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571582189.55554104</real>
+			<key>timeStoppedRecording</key>
+			<real>571582201.02668095</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>38FC0BAE-7E26-41A2-AB36-C5906CF46DFB</string>
+		</dict>
+		<key>EA413EB3-F6F8-451A-8E5A-06850F20EF28</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA413EB3-F6F8-451A-8E5A-06850F20EF28.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571581393.55948102</real>
+			<key>timeStoppedRecording</key>
+			<real>571581398.37381697</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>EA413EB3-F6F8-451A-8E5A-06850F20EF28</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
