@@ -44,4 +44,5 @@ dependencies: \
   /usr/local/include/SDL2/SDL_system.h \
   /usr/local/include/SDL2/SDL_timer.h \
   /usr/local/include/SDL2/SDL_version.h \
-  /usr/local/include/SDL2/SDL_ttf.h
+  /usr/local/include/SDL2/SDL_ttf.h /usr/local/include/SDL2/SDL_image.h \
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/GameObject.hpp

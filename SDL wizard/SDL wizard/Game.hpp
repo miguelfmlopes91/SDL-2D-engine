@@ -6,11 +6,10 @@
 //  Copyright © 2019 Miniclip. All rights reserved.
 //
 
-#ifndef Game_hpp
-#define Game_hpp
-
-#include <stdio.h>
+#pragma once
 #include "SDL2/SDL.h"
+#include <SDL2/SDL_ttf.h>
+#include <SDL2/SDL_image.h>
 
 class Game{
 public:
@@ -24,11 +23,10 @@ public:
     void clean();
     
     bool running();
-    
+    static SDL_Renderer *renderer;
+
 private:
     bool isRunning = false;
     SDL_Window *window;
-    SDL_Renderer *renderer;
     SDL_Event event;
 };
-#endif /* Game_hpp */

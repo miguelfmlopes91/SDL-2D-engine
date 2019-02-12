@@ -8,10 +8,15 @@
 
 #include "Game.hpp"
 #include <iostream>
-#include <SDL2/SDL_ttf.h>
+#include "GameObject.hpp"
+
+SDL_Renderer* Game::renderer = nullptr;
+GameObject* player;
+GameObject* enemy;
+
 
 Game::Game(){
-   
+    
 }
 
 Game::~Game(){
@@ -42,6 +47,15 @@ void Game::init(const char* title, int width, int height, bool fullscreen){
     {
         std::cout << "Error : SDL_TTF" << std::endl;
     }
+    //Initializing the SDL_image library and handling initialization errors
+    int flag = IMG_INIT_PNG;
+    if (!(IMG_Init(flag) & flag)) {
+        
+        printf("IMG Initialization Error: %s\n", IMG_GetError());
+        isRunning = false;
+    }
+    player = new GameObject("Assets/player.png",0,0);
+    enemy = new GameObject("Assets/enemy.png",50,50);
 }
 
 void Game::handleEvents(){
@@ -58,12 +72,14 @@ void Game::handleEvents(){
 }
 
 void Game::update(){
-    
+    player->update();
+    enemy->update();
 }
 
 void Game::render(){
     SDL_RenderClear(renderer);
-    
+    player->render();
+    enemy->render();
     SDL_RenderPresent(renderer);
 }
 

@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>38FC0BAE-7E26-41A2-AB36-C5906CF46DFB</key>
+		<key>08EBB567-3935-417A-BFB0-4CAA823A90A1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>38FC0BAE-7E26-41A2-AB36-C5906CF46DFB.xcactivitylog</string>
+			<string>08EBB567-3935-417A-BFB0-4CAA823A90A1.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,15 +27,15 @@
 			<key>signature</key>
 			<string>Debug SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571582189.55554104</real>
+			<real>571681582.43859899</real>
 			<key>timeStoppedRecording</key>
-			<real>571582201.02668095</real>
+			<real>571681595.50771201</real>
 			<key>title</key>
 			<string>Debug SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>38FC0BAE-7E26-41A2-AB36-C5906CF46DFB</string>
+			<string>08EBB567-3935-417A-BFB0-4CAA823A90A1</string>
 		</dict>
-		<key>FE645C33-779E-41C4-BA1E-D93262C4EF49</key>
+		<key>3B1974D8-7062-41D9-89FF-936D6C9404DB</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -44,7 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>FE645C33-779E-41C4-BA1E-D93262C4EF49.xcactivitylog</string>
+			<string>3B1974D8-7062-41D9-89FF-936D6C9404DB.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,13 +56,303 @@
 			<key>signature</key>
 			<string>Debug SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571586690.94865501</real>
+			<real>571681426.33980298</real>
 			<key>timeStoppedRecording</key>
-			<real>571586697.25577605</real>
+			<real>571681434.50658298</real>
 			<key>title</key>
 			<string>Debug SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>FE645C33-779E-41C4-BA1E-D93262C4EF49</string>
+			<string>3B1974D8-7062-41D9-89FF-936D6C9404DB</string>
+		</dict>
+		<key>4EB714BC-CEEC-45BB-8D73-4A3C9E04C821</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4EB714BC-CEEC-45BB-8D73-4A3C9E04C821.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571681434.83896995</real>
+			<key>timeStoppedRecording</key>
+			<real>571681438.15616202</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>4EB714BC-CEEC-45BB-8D73-4A3C9E04C821</string>
+		</dict>
+		<key>5826A961-4F1D-4BC5-81AA-ECA8C83A69BD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5826A961-4F1D-4BC5-81AA-ECA8C83A69BD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571681299.39400303</real>
+			<key>timeStoppedRecording</key>
+			<real>571681303.80633497</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>5826A961-4F1D-4BC5-81AA-ECA8C83A69BD</string>
+		</dict>
+		<key>59B12A0E-6257-4B04-88D2-C406AC8F1C0D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>59B12A0E-6257-4B04-88D2-C406AC8F1C0D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571682308.73358798</real>
+			<key>timeStoppedRecording</key>
+			<real>571682312.39180005</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>59B12A0E-6257-4B04-88D2-C406AC8F1C0D</string>
+		</dict>
+		<key>6FDF6B81-0E27-4980-AC13-25DD30E3B460</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6FDF6B81-0E27-4980-AC13-25DD30E3B460.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571681602.88969505</real>
+			<key>timeStoppedRecording</key>
+			<real>571681621.37269402</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>6FDF6B81-0E27-4980-AC13-25DD30E3B460</string>
+		</dict>
+		<key>B02E16E8-184F-4884-AAB6-C32FB282D89C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B02E16E8-184F-4884-AAB6-C32FB282D89C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571682203.76810503</real>
+			<key>timeStoppedRecording</key>
+			<real>571682207.14613295</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>B02E16E8-184F-4884-AAB6-C32FB282D89C</string>
+		</dict>
+		<key>BBA927E5-C24E-45A0-ADB6-CD01B64E2461</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BBA927E5-C24E-45A0-ADB6-CD01B64E2461.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571681405.33944702</real>
+			<key>timeStoppedRecording</key>
+			<real>571681417.24193394</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>BBA927E5-C24E-45A0-ADB6-CD01B64E2461</string>
+		</dict>
+		<key>C228D40E-445E-4448-8CB3-6828B61BF3CA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C228D40E-445E-4448-8CB3-6828B61BF3CA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571681440.75457799</real>
+			<key>timeStoppedRecording</key>
+			<real>571681542.71235001</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>C228D40E-445E-4448-8CB3-6828B61BF3CA</string>
+		</dict>
+		<key>CA66E5C3-DF49-4983-9171-DED1A7B89102</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CA66E5C3-DF49-4983-9171-DED1A7B89102.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571681341.11566699</real>
+			<key>timeStoppedRecording</key>
+			<real>571681344.48159397</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>CA66E5C3-DF49-4983-9171-DED1A7B89102</string>
+		</dict>
+		<key>D86C0ABD-80B8-4443-9FDE-E3E110EE881F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D86C0ABD-80B8-4443-9FDE-E3E110EE881F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571681006.39719903</real>
+			<key>timeStoppedRecording</key>
+			<real>571681015.07691395</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>D86C0ABD-80B8-4443-9FDE-E3E110EE881F</string>
+		</dict>
+		<key>E3453059-0EF0-41DC-B39B-7C2627749543</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E3453059-0EF0-41DC-B39B-7C2627749543.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571654385.58287597</real>
+			<key>timeStoppedRecording</key>
+			<real>571654389.056494</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>E3453059-0EF0-41DC-B39B-7C2627749543</string>
 		</dict>
 	</dict>
 </dict>
