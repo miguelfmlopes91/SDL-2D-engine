@@ -33,5 +33,5 @@ void GameObject::update(){
 }
 
 void GameObject::render(){
-    TextureManager::Draw(objTexture, srcRect, destRect, SDL_FLIP_NONE);
+    TextureManager::Draw(objTexture, srcRect, destRect);
 }

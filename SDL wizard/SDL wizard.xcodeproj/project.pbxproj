@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		202449BF22144E4F00945D08 /* ECS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 202449BE22144E4F00945D08 /* ECS.cpp */; };
 		2041987B22132547001F715C /* GameObject.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2041987922132547001F715C /* GameObject.cpp */; };
+		2041989822133415001F715C /* Map.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2041989622133415001F715C /* Map.cpp */; };
 		2048381C2212BC82003CA96E /* TextureManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2048381A2212BC82003CA96E /* TextureManager.cpp */; };
 		2049F2EE2211D25100064743 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2049F2EB2211D25100064743 /* Game.cpp */; };
 		2049F2EF2211D25100064743 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2049F2EC2211D25100064743 /* main.cpp */; };
@@ -30,8 +32,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		202449BD22142F8D00945D08 /* ECS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ECS.h; sourceTree = "<group>"; };
+		202449BE22144E4F00945D08 /* ECS.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ECS.cpp; sourceTree = "<group>"; };
+		202449C022144FC100945D08 /* Components.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Components.h; sourceTree = "<group>"; };
+		202449C12214503400945D08 /* PositionComponent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PositionComponent.h; sourceTree = "<group>"; };
 		2041987922132547001F715C /* GameObject.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GameObject.cpp; sourceTree = "<group>"; };
 		2041987A22132547001F715C /* GameObject.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameObject.hpp; sourceTree = "<group>"; };
+		2041989622133415001F715C /* Map.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Map.cpp; sourceTree = "<group>"; };
+		2041989722133415001F715C /* Map.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Map.hpp; sourceTree = "<group>"; };
 		2048381A2212BC82003CA96E /* TextureManager.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TextureManager.cpp; sourceTree = "<group>"; };
 		2048381B2212BC82003CA96E /* TextureManager.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TextureManager.hpp; sourceTree = "<group>"; };
 		2049F2EA2211D20C00064743 /* Assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Assets; sourceTree = "<group>"; };
@@ -60,6 +68,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		202449BC22142F6500945D08 /* ECS */ = {
+			isa = PBXGroup;
+			children = (
+				202449BD22142F8D00945D08 /* ECS.h */,
+				202449C022144FC100945D08 /* Components.h */,
+				202449BE22144E4F00945D08 /* ECS.cpp */,
+				202449C12214503400945D08 /* PositionComponent.h */,
+			);
+			path = ECS;
+			sourceTree = "<group>";
+		};
 		206B066721EF23F80003715D = {
 			isa = PBXGroup;
 			children = (
@@ -81,9 +100,12 @@
 		206B067221EF23F80003715D /* SDL wizard */ = {
 			isa = PBXGroup;
 			children = (
+				202449BC22142F6500945D08 /* ECS */,
 				2049F2EB2211D25100064743 /* Game.cpp */,
 				2041987922132547001F715C /* GameObject.cpp */,
 				2041987A22132547001F715C /* GameObject.hpp */,
+				2041989622133415001F715C /* Map.cpp */,
+				2041989722133415001F715C /* Map.hpp */,
 				2049F2ED2211D25100064743 /* Game.hpp */,
 				2048381A2212BC82003CA96E /* TextureManager.cpp */,
 				2048381B2212BC82003CA96E /* TextureManager.hpp */,
@@ -160,7 +182,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				2041987B22132547001F715C /* GameObject.cpp in Sources */,
+				2041989822133415001F715C /* Map.cpp in Sources */,
 				2049F2EF2211D25100064743 /* main.cpp in Sources */,
+				202449BF22144E4F00945D08 /* ECS.cpp in Sources */,
 				2049F2EE2211D25100064743 /* Game.cpp in Sources */,
 				2048381C2212BC82003CA96E /* TextureManager.cpp in Sources */,
 			);

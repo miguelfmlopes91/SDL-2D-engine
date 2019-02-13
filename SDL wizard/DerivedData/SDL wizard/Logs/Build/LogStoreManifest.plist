@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>2F45BE41-39DC-408E-9623-5EF777CB35B6</key>
+		<key>091D3312-0A06-4FC9-A830-927357267CE7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,65 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2F45BE41-39DC-408E-9623-5EF777CB35B6.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>SDL wizard project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SDL wizard</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SDL wizard</string>
-			<key>timeStartedRecording</key>
-			<real>571681005.14069903</real>
-			<key>timeStoppedRecording</key>
-			<real>571681006.41097796</real>
-			<key>title</key>
-			<string>Build SDL wizard</string>
-			<key>uniqueIdentifier</key>
-			<string>2F45BE41-39DC-408E-9623-5EF777CB35B6</string>
-		</dict>
-		<key>564AAE69-9021-4CF2-A263-CC51B35343E0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>564AAE69-9021-4CF2-A263-CC51B35343E0.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>SDL wizard project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SDL wizard</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SDL wizard</string>
-			<key>timeStartedRecording</key>
-			<real>571681425.38107896</real>
-			<key>timeStoppedRecording</key>
-			<real>571681426.47220504</real>
-			<key>title</key>
-			<string>Build SDL wizard</string>
-			<key>uniqueIdentifier</key>
-			<string>564AAE69-9021-4CF2-A263-CC51B35343E0</string>
-		</dict>
-		<key>794DEE39-D20B-4308-A0DF-FF5C7BFA2D7D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>794DEE39-D20B-4308-A0DF-FF5C7BFA2D7D.xcactivitylog</string>
+			<string>091D3312-0A06-4FC9-A830-927357267CE7.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -85,13 +27,158 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681284.81393099</real>
+			<real>571767824.73094797</real>
 			<key>timeStoppedRecording</key>
-			<real>571681285.29203796</real>
+			<real>571767825.39916897</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>794DEE39-D20B-4308-A0DF-FF5C7BFA2D7D</string>
+			<string>091D3312-0A06-4FC9-A830-927357267CE7</string>
+		</dict>
+		<key>0B78791D-6DFA-4FF0-B339-98A110088629</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B78791D-6DFA-4FF0-B339-98A110088629.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571742044.12082505</real>
+			<key>timeStoppedRecording</key>
+			<real>571742044.994151</real>
+			<key>title</key>
+			<string>Build SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>0B78791D-6DFA-4FF0-B339-98A110088629</string>
+		</dict>
+		<key>299A7AC6-08AE-48B4-8C8E-BA4C19DE0049</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>299A7AC6-08AE-48B4-8C8E-BA4C19DE0049.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571742036.22353995</real>
+			<key>timeStoppedRecording</key>
+			<real>571742036.92867303</real>
+			<key>title</key>
+			<string>Build SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>299A7AC6-08AE-48B4-8C8E-BA4C19DE0049</string>
+		</dict>
+		<key>4207D37E-95CD-4E5A-AFAD-2E627FAAB840</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4207D37E-95CD-4E5A-AFAD-2E627FAAB840.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571742085.543239</real>
+			<key>timeStoppedRecording</key>
+			<real>571742086.50468802</real>
+			<key>title</key>
+			<string>Build SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>4207D37E-95CD-4E5A-AFAD-2E627FAAB840</string>
+		</dict>
+		<key>5D7516F7-3409-45A4-8866-413F4E02CD87</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5D7516F7-3409-45A4-8866-413F4E02CD87.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571768280.70486403</real>
+			<key>timeStoppedRecording</key>
+			<real>571768281.84321404</real>
+			<key>title</key>
+			<string>Build SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>5D7516F7-3409-45A4-8866-413F4E02CD87</string>
+		</dict>
+		<key>6E2929D0-4219-4134-9A20-0B3BEA22F849</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E2929D0-4219-4134-9A20-0B3BEA22F849.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571769460.05454803</real>
+			<key>timeStoppedRecording</key>
+			<real>571769461.59595299</real>
+			<key>title</key>
+			<string>Build SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>6E2929D0-4219-4134-9A20-0B3BEA22F849</string>
 		</dict>
 		<key>80E3C0A9-0E42-42C3-A276-C94AD43E288A</key>
 		<dict>
@@ -122,7 +209,7 @@
 			<key>uniqueIdentifier</key>
 			<string>80E3C0A9-0E42-42C3-A276-C94AD43E288A</string>
 		</dict>
-		<key>8C01C8B6-AFBD-4192-9C5A-825E21601B36</key>
+		<key>83404F5D-BF85-4AB6-912A-E37B42B5E0A7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -131,7 +218,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8C01C8B6-AFBD-4192-9C5A-825E21601B36.xcactivitylog</string>
+			<string>83404F5D-BF85-4AB6-912A-E37B42B5E0A7.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -143,15 +230,15 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681341.08487701</real>
+			<real>571769945.44793403</real>
 			<key>timeStoppedRecording</key>
-			<real>571681341.13163495</real>
+			<real>571769946.90258396</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>8C01C8B6-AFBD-4192-9C5A-825E21601B36</string>
+			<string>83404F5D-BF85-4AB6-912A-E37B42B5E0A7</string>
 		</dict>
-		<key>99D3160F-89EF-4016-8370-57EE91132F02</key>
+		<key>8A988976-7E3D-4321-9E3D-1F81B2D1B42D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -160,7 +247,36 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>99D3160F-89EF-4016-8370-57EE91132F02.xcactivitylog</string>
+			<string>8A988976-7E3D-4321-9E3D-1F81B2D1B42D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571769660.96870899</real>
+			<key>timeStoppedRecording</key>
+			<real>571769661.95148695</real>
+			<key>title</key>
+			<string>Build SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>8A988976-7E3D-4321-9E3D-1F81B2D1B42D</string>
+		</dict>
+		<key>966A759A-962E-4AE7-9246-4F5335912C9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>966A759A-962E-4AE7-9246-4F5335912C9C.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -172,15 +288,15 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681247.01184201</real>
+			<real>571742062.75088501</real>
 			<key>timeStoppedRecording</key>
-			<real>571681247.47914302</real>
+			<real>571742063.48094201</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>99D3160F-89EF-4016-8370-57EE91132F02</string>
+			<string>966A759A-962E-4AE7-9246-4F5335912C9C</string>
 		</dict>
-		<key>9E36C7E8-DFB4-4168-9D99-152504F9D1F4</key>
+		<key>AF4D8B7C-D756-4A09-81A9-9C320501018F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -189,65 +305,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9E36C7E8-DFB4-4168-9D99-152504F9D1F4.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>SDL wizard project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SDL wizard</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SDL wizard</string>
-			<key>timeStartedRecording</key>
-			<real>571682202.33012998</real>
-			<key>timeStoppedRecording</key>
-			<real>571682203.78818905</real>
-			<key>title</key>
-			<string>Build SDL wizard</string>
-			<key>uniqueIdentifier</key>
-			<string>9E36C7E8-DFB4-4168-9D99-152504F9D1F4</string>
-		</dict>
-		<key>A2FD3511-FF04-49A9-AFA8-131DB52DF794</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A2FD3511-FF04-49A9-AFA8-131DB52DF794.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>SDL wizard project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SDL wizard</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SDL wizard</string>
-			<key>timeStartedRecording</key>
-			<real>571681582.40895498</real>
-			<key>timeStoppedRecording</key>
-			<real>571681582.45164299</real>
-			<key>title</key>
-			<string>Build SDL wizard</string>
-			<key>uniqueIdentifier</key>
-			<string>A2FD3511-FF04-49A9-AFA8-131DB52DF794</string>
-		</dict>
-		<key>A73ECB18-C61C-4E9D-A5C2-BF72A03CE90B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A73ECB18-C61C-4E9D-A5C2-BF72A03CE90B.xcactivitylog</string>
+			<string>AF4D8B7C-D756-4A09-81A9-9C320501018F.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -259,15 +317,15 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681167.79398</real>
+			<real>571741874.72529304</real>
 			<key>timeStoppedRecording</key>
-			<real>571681168.841627</real>
+			<real>571741875.63010395</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>A73ECB18-C61C-4E9D-A5C2-BF72A03CE90B</string>
+			<string>AF4D8B7C-D756-4A09-81A9-9C320501018F</string>
 		</dict>
-		<key>B6C84661-20D2-4E55-B462-182B2995E365</key>
+		<key>B43F8053-7054-428F-9EEB-713706FE1184</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -276,7 +334,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B6C84661-20D2-4E55-B462-182B2995E365.xcactivitylog</string>
+			<string>B43F8053-7054-428F-9EEB-713706FE1184.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -288,15 +346,15 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681405.31138098</real>
+			<real>571769911.77656698</real>
 			<key>timeStoppedRecording</key>
-			<real>571681405.45269704</real>
+			<real>571769912.83276904</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>B6C84661-20D2-4E55-B462-182B2995E365</string>
+			<string>B43F8053-7054-428F-9EEB-713706FE1184</string>
 		</dict>
-		<key>BECC7A6C-FE4D-4303-BA84-37E044C540A9</key>
+		<key>BB82BF3D-C69C-47E7-96C7-51A7B3C9ABBF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -305,7 +363,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BECC7A6C-FE4D-4303-BA84-37E044C540A9.xcactivitylog</string>
+			<string>BB82BF3D-C69C-47E7-96C7-51A7B3C9ABBF.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -317,15 +375,15 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681434.80868196</real>
+			<real>571742117.11101103</real>
 			<key>timeStoppedRecording</key>
-			<real>571681434.94838595</real>
+			<real>571742117.14881897</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>BECC7A6C-FE4D-4303-BA84-37E044C540A9</string>
+			<string>BB82BF3D-C69C-47E7-96C7-51A7B3C9ABBF</string>
 		</dict>
-		<key>C1A317FE-C6B5-4DAC-AB1B-F5B891100845</key>
+		<key>CD53FC60-B026-42AF-B4A9-7A3716C70BDB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -334,7 +392,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C1A317FE-C6B5-4DAC-AB1B-F5B891100845.xcactivitylog</string>
+			<string>CD53FC60-B026-42AF-B4A9-7A3716C70BDB.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -346,15 +404,15 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681218.718045</real>
+			<real>571769649.96759701</real>
 			<key>timeStoppedRecording</key>
-			<real>571681219.14916205</real>
+			<real>571769650.47619402</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>C1A317FE-C6B5-4DAC-AB1B-F5B891100845</string>
+			<string>CD53FC60-B026-42AF-B4A9-7A3716C70BDB</string>
 		</dict>
-		<key>CFD5E81E-FA07-4352-B0D8-E96440A86404</key>
+		<key>E4B102BF-5EFD-4BC1-8080-05C191DCEF98</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -363,7 +421,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CFD5E81E-FA07-4352-B0D8-E96440A86404.xcactivitylog</string>
+			<string>E4B102BF-5EFD-4BC1-8080-05C191DCEF98.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -375,15 +433,15 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681298.34593999</real>
+			<real>571767830.22047603</real>
 			<key>timeStoppedRecording</key>
-			<real>571681299.48996794</real>
+			<real>571767830.92112398</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>CFD5E81E-FA07-4352-B0D8-E96440A86404</string>
+			<string>E4B102BF-5EFD-4BC1-8080-05C191DCEF98</string>
 		</dict>
-		<key>E2DC2AC0-1CBA-409E-BBDC-0E61F31DB26A</key>
+		<key>E8525FCA-6D61-4978-B83E-B22A58BC971E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -392,7 +450,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E2DC2AC0-1CBA-409E-BBDC-0E61F31DB26A.xcactivitylog</string>
+			<string>E8525FCA-6D61-4978-B83E-B22A58BC971E.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -404,15 +462,15 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681440.726331</real>
+			<real>571769712.56126797</real>
 			<key>timeStoppedRecording</key>
-			<real>571681440.77021205</real>
+			<real>571769712.68165505</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>E2DC2AC0-1CBA-409E-BBDC-0E61F31DB26A</string>
+			<string>E8525FCA-6D61-4978-B83E-B22A58BC971E</string>
 		</dict>
-		<key>E50C439C-3DE7-4E8A-B0A5-D8FE8BF27DD8</key>
+		<key>F1BB92CB-CC38-45F0-85FB-AD77A9036DF2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -421,9 +479,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E50C439C-3DE7-4E8A-B0A5-D8FE8BF27DD8.xcactivitylog</string>
+			<string>F1BB92CB-CC38-45F0-85FB-AD77A9036DF2.xcactivitylog</string>
 			<key>highLevelStatus</key>
-			<string>W</string>
+			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>SDL wizard project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -433,42 +491,13 @@
 			<key>signature</key>
 			<string>Build SDL wizard</string>
 			<key>timeStartedRecording</key>
-			<real>571681602.86158597</real>
+			<real>571769892.22526896</real>
 			<key>timeStoppedRecording</key>
-			<real>571681602.90326703</real>
+			<real>571769892.98230803</real>
 			<key>title</key>
 			<string>Build SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>E50C439C-3DE7-4E8A-B0A5-D8FE8BF27DD8</string>
-		</dict>
-		<key>F5087EF0-DBF0-4D44-A8DB-6C268271A4AF</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F5087EF0-DBF0-4D44-A8DB-6C268271A4AF.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>SDL wizard project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SDL wizard</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SDL wizard</string>
-			<key>timeStartedRecording</key>
-			<real>571654384.68528295</real>
-			<key>timeStoppedRecording</key>
-			<real>571654385.64307594</real>
-			<key>title</key>
-			<string>Build SDL wizard</string>
-			<key>uniqueIdentifier</key>
-			<string>F5087EF0-DBF0-4D44-A8DB-6C268271A4AF</string>
+			<string>F1BB92CB-CC38-45F0-85FB-AD77A9036DF2</string>
 		</dict>
 	</dict>
 </dict>
