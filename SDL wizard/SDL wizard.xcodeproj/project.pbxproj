@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		20244A132216B3AD00945D08 /* Vector2D.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 20244A112216B3AD00945D08 /* Vector2D.cpp */; };
 		2041987B22132547001F715C /* GameObject.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2041987922132547001F715C /* GameObject.cpp */; };
 		2041989822133415001F715C /* Map.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2041989622133415001F715C /* Map.cpp */; };
 		2048381C2212BC82003CA96E /* TextureManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2048381A2212BC82003CA96E /* TextureManager.cpp */; };
@@ -33,8 +34,11 @@
 /* Begin PBXFileReference section */
 		202449BD22142F8D00945D08 /* ECS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ECS.h; sourceTree = "<group>"; };
 		202449C022144FC100945D08 /* Components.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Components.h; sourceTree = "<group>"; };
-		202449C12214503400945D08 /* PositionComponent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PositionComponent.h; sourceTree = "<group>"; };
+		202449C12214503400945D08 /* TransformComponent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TransformComponent.h; sourceTree = "<group>"; };
 		20244A102215933000945D08 /* SpriteComponent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpriteComponent.h; sourceTree = "<group>"; };
+		20244A112216B3AD00945D08 /* Vector2D.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Vector2D.cpp; sourceTree = "<group>"; };
+		20244A122216B3AD00945D08 /* Vector2D.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Vector2D.hpp; sourceTree = "<group>"; };
+		20244A142216C1A100945D08 /* KeyboardController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeyboardController.h; sourceTree = "<group>"; };
 		2041987922132547001F715C /* GameObject.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GameObject.cpp; sourceTree = "<group>"; };
 		2041987A22132547001F715C /* GameObject.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameObject.hpp; sourceTree = "<group>"; };
 		2041989622133415001F715C /* Map.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Map.cpp; sourceTree = "<group>"; };
@@ -70,9 +74,10 @@
 		202449BC22142F6500945D08 /* ECS */ = {
 			isa = PBXGroup;
 			children = (
+				20244A142216C1A100945D08 /* KeyboardController.h */,
 				202449BD22142F8D00945D08 /* ECS.h */,
 				202449C022144FC100945D08 /* Components.h */,
-				202449C12214503400945D08 /* PositionComponent.h */,
+				202449C12214503400945D08 /* TransformComponent.h */,
 				20244A102215933000945D08 /* SpriteComponent.h */,
 			);
 			path = ECS;
@@ -102,6 +107,8 @@
 				202449BC22142F6500945D08 /* ECS */,
 				2049F2EB2211D25100064743 /* Game.cpp */,
 				2041987922132547001F715C /* GameObject.cpp */,
+				20244A112216B3AD00945D08 /* Vector2D.cpp */,
+				20244A122216B3AD00945D08 /* Vector2D.hpp */,
 				2041987A22132547001F715C /* GameObject.hpp */,
 				2041989622133415001F715C /* Map.cpp */,
 				2041989722133415001F715C /* Map.hpp */,
@@ -182,6 +189,7 @@
 			files = (
 				2041987B22132547001F715C /* GameObject.cpp in Sources */,
 				2041989822133415001F715C /* Map.cpp in Sources */,
+				20244A132216B3AD00945D08 /* Vector2D.cpp in Sources */,
 				2049F2EF2211D25100064743 /* main.cpp in Sources */,
 				2049F2EE2211D25100064743 /* Game.cpp in Sources */,
 				2048381C2212BC82003CA96E /* TextureManager.cpp in Sources */,

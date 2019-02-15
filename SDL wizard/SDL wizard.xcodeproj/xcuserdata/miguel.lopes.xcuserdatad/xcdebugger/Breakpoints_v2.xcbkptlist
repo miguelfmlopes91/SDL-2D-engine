@@ -10,77 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SDL wizard/Game.cpp"
-            timestampString = "571912262.141116"
+            timestampString = "571917397.782716"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
-            landmarkName = "Game::Game()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Game::Game()"
-                  moduleName = "SDL wizard"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/miguel.lopes/GitHub/SDL-2D-engine/SDL%20wizard/SDL%20wizard/Game.cpp"
-                  timestampString = "571681426.985576"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "15">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Game::Game()"
-                  moduleName = "SDL wizard"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/miguel.lopes/GitHub/SDL-2D-engine/SDL%20wizard/SDL%20wizard/Game.cpp"
-                  timestampString = "571681426.988189"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "21">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SDL wizard/Game.cpp"
-            timestampString = "571912262.141489"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "63"
-            endingLineNumber = "63"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
             landmarkName = "Game::init(const char* title, int width, int height, bool fullscreen)"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SDL wizard/Game.cpp"
-            timestampString = "571912262.141775"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "unknown"
-            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

@@ -15,11 +15,13 @@
 
 
 SDL_Renderer* Game::renderer = nullptr;
+SDL_Event Game::event;
+bool Game::isRunning = false;
 
 Map* map;
 
 Manager manager;
-auto& newPlayer(manager.addEntity());
+auto& player(manager.addEntity());
 
 Game::Game(){
     
@@ -63,9 +65,9 @@ void Game::init(const char* title, int width, int height, bool fullscreen){
     //player = new GameObject("Assets/player.png",0,0);
     map = new  Map();
     
-    newPlayer.addComponent<PositionComponent>(100,100);
-    newPlayer.addComponent<SpriteComponent>("Assets/player.png");
-
+    player.addComponent<TransformComponent>(100,100);
+    player.addComponent<SpriteComponent>("Assets/player.png");
+    player.addComponent<KeyboardController>();
 }
 
 void Game::handleEvents(){
@@ -84,10 +86,6 @@ void Game::handleEvents(){
 void Game::update(){
     manager.refresh();
     manager.update();
-    
-    if (newPlayer.getComponent<PositionComponent>().x()>300) {
-        newPlayer.getComponent<SpriteComponent>().setTexture("Assets/enemy.png");
-    }
 }
 
 void Game::render(){

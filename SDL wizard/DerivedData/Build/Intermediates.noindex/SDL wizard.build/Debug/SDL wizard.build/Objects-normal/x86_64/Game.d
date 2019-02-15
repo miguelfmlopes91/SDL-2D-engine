@@ -50,5 +50,8 @@ dependencies: \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/Components.h \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/ECS.h \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/SpriteComponent.h \
-  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/PositionComponent.h \
-  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/../TextureManager.hpp
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/TransformComponent.h \
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/../Vector2D.hpp \
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/../TextureManager.hpp \
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/KeyboardController.h \
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/../Game.hpp

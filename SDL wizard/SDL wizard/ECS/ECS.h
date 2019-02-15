@@ -73,7 +73,7 @@ public:
     
     //check if an entity has a component attached
     template<typename T> bool hasComponent() const{
-        //return from the bitset if it has component from a position component
+        //return from the bitset if it has component from a component
         return componentBitSet[getComponentTypeID<T>];
     }
     
