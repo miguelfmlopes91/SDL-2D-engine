@@ -12,3 +12,8 @@
 *.modulevalidation
 *.db
 *.xcbkptlist
+*.xcbkptlist
+*.plist
+*.modulevalidation
+*.db
+SDL wizard/.DS_Store

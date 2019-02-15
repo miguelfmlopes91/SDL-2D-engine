@@ -47,6 +47,7 @@ dependencies: \
   /usr/local/include/SDL2/SDL_ttf.h /usr/local/include/SDL2/SDL_image.h \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/GameObject.hpp \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/Map.hpp \
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/Collision.hpp \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/Components.h \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/ECS.h \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/SpriteComponent.h \
@@ -54,4 +55,5 @@ dependencies: \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/../Vector2D.hpp \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/../TextureManager.hpp \
   /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/KeyboardController.h \
-  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/../Game.hpp
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/../Game.hpp \
+  /Users/miguel.lopes/GitHub/SDL-2D-engine/SDL\ wizard/SDL\ wizard/ECS/ColliderComponent.h

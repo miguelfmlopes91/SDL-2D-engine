@@ -29,7 +29,7 @@
 			<key>uniqueIdentifier</key>
 			<string>19B17342-0D76-416B-92E5-5D473338B8DC</string>
 		</dict>
-		<key>C2918FD3-84DD-40C9-A363-9E6F59DFED31</key>
+		<key>AD7BE903-579C-4685-A6F8-27647138796A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -38,19 +38,19 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>C2918FD3-84DD-40C9-A363-9E6F59DFED31.xcactivitylog</string>
+			<string>AD7BE903-579C-4685-A6F8-27647138796A.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>signature</key>
 			<string>SDL_wizard-bfdrldfsqiggwlfuuskjpistilzi</string>
 			<key>timeStartedRecording</key>
-			<real>571917396.34682095</real>
+			<real>571936195.45432496</real>
 			<key>timeStoppedRecording</key>
-			<real>571917397.54564297</real>
+			<real>571936196.54088402</real>
 			<key>title</key>
 			<string>Build target SDL wizard</string>
 			<key>uniqueIdentifier</key>
-			<string>C2918FD3-84DD-40C9-A363-9E6F59DFED31</string>
+			<string>AD7BE903-579C-4685-A6F8-27647138796A</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

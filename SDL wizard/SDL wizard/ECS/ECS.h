@@ -74,8 +74,9 @@ public:
     //check if an entity has a component attached
     template<typename T> bool hasComponent() const{
         //return from the bitset if it has component from a component
-        return componentBitSet[getComponentTypeID<T>];
+        return componentBitSet[getComponentTypeID<T>()];
     }
+
     
     void update() {
         //entity will loop through all of its components and update them
