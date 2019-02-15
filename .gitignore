@@ -6,3 +6,9 @@
 *.idx
 *.d
 ./DerivedData
+./SDL wizard.xcodeproj
+*.xcbkptlist
+*.plist
+*.modulevalidation
+*.db
+*.xcbkptlist
