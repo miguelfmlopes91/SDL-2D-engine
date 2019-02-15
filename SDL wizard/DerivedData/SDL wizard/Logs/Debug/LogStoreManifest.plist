@@ -267,6 +267,35 @@
 			<key>uniqueIdentifier</key>
 			<string>38736CC9-D854-4675-98EB-93BAB6A5B0ED</string>
 		</dict>
+		<key>441B2F9B-78C7-42E3-BC6C-4066491F124E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>441B2F9B-78C7-42E3-BC6C-4066491F124E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571917921.64489901</real>
+			<key>timeStoppedRecording</key>
+			<real>571917924.85544205</real>
+			<key>title</key>
+			<string>Debug SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>441B2F9B-78C7-42E3-BC6C-4066491F124E</string>
+		</dict>
 		<key>55B83847-E188-4B32-B7AE-8852902556AB</key>
 		<dict>
 			<key>className</key>

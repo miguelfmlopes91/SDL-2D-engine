@@ -151,6 +151,35 @@
 			<key>uniqueIdentifier</key>
 			<string>1C96E147-4285-4D65-9829-DBE40B7EE2D3</string>
 		</dict>
+		<key>2306A27C-692B-423F-9466-CA48BCFC79E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2306A27C-692B-423F-9466-CA48BCFC79E0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SDL wizard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SDL wizard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SDL wizard</string>
+			<key>timeStartedRecording</key>
+			<real>571917921.61380804</real>
+			<key>timeStoppedRecording</key>
+			<real>571917921.659904</real>
+			<key>title</key>
+			<string>Build SDL wizard</string>
+			<key>uniqueIdentifier</key>
+			<string>2306A27C-692B-423F-9466-CA48BCFC79E0</string>
+		</dict>
 		<key>299A7AC6-08AE-48B4-8C8E-BA4C19DE0049</key>
 		<dict>
 			<key>className</key>
