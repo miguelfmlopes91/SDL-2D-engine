@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		202449BF22144E4F00945D08 /* ECS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 202449BE22144E4F00945D08 /* ECS.cpp */; };
 		2041987B22132547001F715C /* GameObject.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2041987922132547001F715C /* GameObject.cpp */; };
 		2041989822133415001F715C /* Map.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2041989622133415001F715C /* Map.cpp */; };
 		2048381C2212BC82003CA96E /* TextureManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2048381A2212BC82003CA96E /* TextureManager.cpp */; };
@@ -33,9 +32,9 @@
 
 /* Begin PBXFileReference section */
 		202449BD22142F8D00945D08 /* ECS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ECS.h; sourceTree = "<group>"; };
-		202449BE22144E4F00945D08 /* ECS.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ECS.cpp; sourceTree = "<group>"; };
 		202449C022144FC100945D08 /* Components.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Components.h; sourceTree = "<group>"; };
 		202449C12214503400945D08 /* PositionComponent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PositionComponent.h; sourceTree = "<group>"; };
+		20244A102215933000945D08 /* SpriteComponent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SpriteComponent.h; sourceTree = "<group>"; };
 		2041987922132547001F715C /* GameObject.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GameObject.cpp; sourceTree = "<group>"; };
 		2041987A22132547001F715C /* GameObject.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameObject.hpp; sourceTree = "<group>"; };
 		2041989622133415001F715C /* Map.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Map.cpp; sourceTree = "<group>"; };
@@ -73,8 +72,8 @@
 			children = (
 				202449BD22142F8D00945D08 /* ECS.h */,
 				202449C022144FC100945D08 /* Components.h */,
-				202449BE22144E4F00945D08 /* ECS.cpp */,
 				202449C12214503400945D08 /* PositionComponent.h */,
+				20244A102215933000945D08 /* SpriteComponent.h */,
 			);
 			path = ECS;
 			sourceTree = "<group>";
@@ -184,7 +183,6 @@
 				2041987B22132547001F715C /* GameObject.cpp in Sources */,
 				2041989822133415001F715C /* Map.cpp in Sources */,
 				2049F2EF2211D25100064743 /* main.cpp in Sources */,
-				202449BF22144E4F00945D08 /* ECS.cpp in Sources */,
 				2049F2EE2211D25100064743 /* Game.cpp in Sources */,
 				2048381C2212BC82003CA96E /* TextureManager.cpp in Sources */,
 			);

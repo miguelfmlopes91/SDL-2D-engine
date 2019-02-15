@@ -11,13 +11,11 @@
 #include "GameObject.hpp"
 #include "Map.hpp"
 
-#include "ECS/ECS.h"
 #include "ECS/Components.h"
 
 
 SDL_Renderer* Game::renderer = nullptr;
-GameObject* player;
-GameObject* enemy;
+
 Map* map;
 
 Manager manager;
@@ -62,12 +60,11 @@ void Game::init(const char* title, int width, int height, bool fullscreen){
         printf("IMG Initialization Error: %s\n", IMG_GetError());
         isRunning = false;
     }
-    player = new GameObject("Assets/player.png",0,0);
-    enemy = new GameObject("Assets/enemy.png",50,50);
+    //player = new GameObject("Assets/player.png",0,0);
     map = new  Map();
     
-    newPlayer.addComponent<PositionComponent>();
-    newPlayer.getComponent<PositionComponent>().setPos(500, 500);
+    newPlayer.addComponent<PositionComponent>(100,100);
+    newPlayer.addComponent<SpriteComponent>("Assets/player.png");
 
 }
 
@@ -85,18 +82,18 @@ void Game::handleEvents(){
 }
 
 void Game::update(){
-    player->update();
-    enemy->update();
+    manager.refresh();
     manager.update();
-    std::cout<<newPlayer.getComponent<PositionComponent>().x()<< "," <<
-    newPlayer.getComponent<PositionComponent>().y()<< std::endl;
+    
+    if (newPlayer.getComponent<PositionComponent>().x()>300) {
+        newPlayer.getComponent<SpriteComponent>().setTexture("Assets/enemy.png");
+    }
 }
 
 void Game::render(){
     SDL_RenderClear(renderer);
     map->DrawMap();
-    player->render();
-    enemy->render();
+    manager.draw();
     SDL_RenderPresent(renderer);
 }
 
